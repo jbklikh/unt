@@ -3,5 +3,6 @@
  */
 public class A {
     int f;
+    int k;
 }
 ,
